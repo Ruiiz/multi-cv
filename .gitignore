@@ -8,3 +8,4 @@ pretrained_models
 scripts/
 detail-api/
 hrnet_ocr_cs_8162_torch11.pth
+generated
